@@ -1,4 +1,4 @@
-<h2 align="left">Hi ! My name is Catchip and  I'm in my second year of postgraduate of Shanghai Jiaotong unisersity</h2>
+<h2 align="left">Algorithm Engineer | Researching Scene Understanding for Humanoid Robots via VLA/VLN/VLM</h2>
 
 ###
 

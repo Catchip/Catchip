@@ -14,10 +14,6 @@ I am an algorithm engineer interested in world models and scene understanding fo
 - **Embodied perception:** scene understanding for humanoid robots.
 - **Vision, language, and action:** vision-language models (VLM), vision-language-action models (VLA), and vision-language navigation (VLN).
 
-## Tools
-
-Python · Jupyter · Git · Linux
-
 ## Contact
 
 For discussions about world models, embodied AI, or robotics, please reach me at [yyxlhy20141212@gmail.com](mailto:yyxlhy20141212@gmail.com).

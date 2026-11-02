@@ -1,46 +1,30 @@
-<h2 align="left">Algorithm Engineer | Researching Scene Understanding for Humanoid Robots via VLA/VLN/VLM</h2>
+# Hongyu Luo · 罗宏宇
 
-###
+**Algorithm Engineer · World Models & Embodied AI**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=catchip" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=catchip" height="150" alt="languages graph"  />
-</div>
+Email: [yyxlhy20141212@gmail.com](mailto:yyxlhy20141212@gmail.com)
 
-###
+GitHub: [@Catchip](https://github.com/Catchip)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" width="42" alt="jupyter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo"  />
-</div>
+I am an algorithm engineer interested in world models and scene understanding for humanoid robots. I explore how models can connect visual observations, language, and actions to understand and interact with the physical world.
 
-###
+## Research interests
 
-<div align="left">
-  <a href="yyxlhy20141212@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+- **World models:** learning environment dynamics and predicting future observations.
+- **Embodied perception:** scene understanding for humanoid robots.
+- **Vision, language, and action:** vision-language models (VLM), vision-language-action models (VLA), and vision-language navigation (VLN).
 
-###
+## Tools
 
-<br clear="both">
+Python · Jupyter · Git · Linux
 
-<img src="https://raw.githubusercontent.com/catchip/catchip/output/snake.svg" alt="Snake animation" />
+## Contact
 
-###
+For discussions about world models, embodied AI, or robotics, please reach me at [yyxlhy20141212@gmail.com](mailto:yyxlhy20141212@gmail.com).
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/catchip/count.svg?"  />
-</div>
+<details>
+<summary>GitHub activity</summary>
 
-###
+![Contribution snake animation](https://raw.githubusercontent.com/Catchip/Catchip/output/snake.svg)
 
-<div align="center">
-  <img height="200" src="https://i0.hdslb.com/bfs/article/adf31dd463b33077fe9ef5a66d8ee721831fb6c9.gif"  />
-</div>
-
-###
-
+</details>
